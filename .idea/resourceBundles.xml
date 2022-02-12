@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/Languages/Nat.properties" />
+    <file url="file://$PROJECT_DIR$/src/Languages/Nat_es.properties" />
+    <file url="file://$PROJECT_DIR$/src/Languages/Nat_fr.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/Languages/Nat.properties" />
+      <file value="file://$PROJECT_DIR$/src/Languages/Nat_en_US.properties" />
+      <file value="file://$PROJECT_DIR$/src/Languages/Nat_es.properties" />
+      <file value="file://$PROJECT_DIR$/src/Languages/Nat_fr.properties" />
+      <base-name>Nat</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
